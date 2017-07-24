@@ -1,0 +1,85 @@
+.jumbotron {
+    background-image: url("../images/nyc-2.jpg");
+    background-size: cover;
+    text-align: right;
+    color: black;
+}
+
+
+
+
+.my-btn {
+ background: #535652;
+ border-color: #26221f;
+ color: #f4f3f0;
+}
+
+.my-btn:hover {
+ border-color: #C0C0C0;
+ background-color: #828982;
+}
+
+.img-responsive {
+ display: block;
+
+}
+/*
+.thumbnail {
+ max-width: 100%;
+ max-height: 100%;
+ Padding: 10pt;
+ display: inline-block;
+}
+
+.modal-content {
+ padding-top: 10px;
+ padding-right: 15px;
+ position: relative;
+}
+
+.modal-bali {
+  max-height: calc(100% - 100px);
+  position: fixed;
+    top: 50%;
+    left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+
+#toggle {
+ max-width: 100%;
+ max-height: 100%;
+ Padding: 10pt;
+ display: inline-block;
+}
+
+
+}
+
+html {
+  width: 100%;
+  height: 100%;
+  background: #1192d3 url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/93/austin-2.jpg) no-repeat bottom right;
+  background-size: cover;
+}
+
+body {
+  padding: 45px 0;
+  font: 13px 'Open Sans', "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+
+
+i {
+  color: #fff;
+  font-family: weather;
+  font-size: 150px;
+  font-weight: normal;
+  font-style: normal;
+  line-height: 1.0;
+  text-transform: none;
+}
+
+
+*/
